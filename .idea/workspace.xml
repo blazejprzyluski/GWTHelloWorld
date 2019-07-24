@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71ef8cbd-6e54-4dc0-b233-6305bd9fd194" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/blazejprzyluski/client/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/blazejprzyluski/client/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="71ef8cbd-6e54-4dc0-b233-6305bd9fd194" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -239,12 +236,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563993104957</updated>
-      <workItem from="1563993109559" duration="1647000" />
+      <workItem from="1563993109559" duration="1986000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1647000" />
+    <option name="totallyTimeSpent" value="1986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="639" y="7" width="974" height="1047" extended-state="0" />

@@ -1,13 +1,13 @@
 binding: user.agent=safari
 Compiling module com.blazejprzyluski.App
-   Unification traversed 657 fields and methods and 300 types. 3 are considered part of the current module and 11 had all of their fields and methods traversed.
+   Unification traversed 696 fields and methods and 359 types. 4 are considered part of the current module and 12 had all of their fields and methods traversed.
    Compiling 1 permutation
       Compiling permutation 0...
-      Linking per-type JS with 3 new/changed types.
+      Linking per-type JS with 4 new/changed types.
       Source Maps Enabled
    Compile of permutations succeeded
-   Compilation succeeded -- 1,252s
+   Compilation succeeded -- 1,408s
 Linking into C:\Users\B³a¿ej\Desktop\Nowy folder\GWTHelloWorld\target\gwt\devmode\work\com.blazejprzyluski.App\compile-3\war\com.blazejprzyluski.App; Writing extras to C:\Users\B³a¿ej\Desktop\Nowy folder\GWTHelloWorld\target\gwt\devmode\work\com.blazejprzyluski.App\compile-3\extras\com.blazejprzyluski.App
    Link succeeded
-   Linking succeeded -- 0,167s
-1,554s total -- Compile completed
+   Linking succeeded -- 0,115s
+1,613s total -- Compile completed
